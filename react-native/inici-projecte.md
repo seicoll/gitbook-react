@@ -34,7 +34,11 @@ npm run start
 
 # Instal·lació Nativewind
 
-> [Web Oficial Nativewind](https://www.nativewind.dev/)
+{% hint style="info" %}
+
+[Web Oficial Nativewind](https://www.nativewind.dev/)
+
+{% endhint %}
 
 ## Instal·lar Nativewind amb Expo
 
