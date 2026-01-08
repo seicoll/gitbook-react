@@ -1,8 +1,12 @@
-# Creació del proejecte React Native amb Vite i Nativewind
+# Creació del projecte React Native
 
-## Crear el projecte Expo i React Native
+## Crear un projecte Expo i React Native
 
-- [Documentació Expo](https://docs.expo.dev/more/create-expo/)
+{% hint style="info" %}
+
+[Documentació Expo](https://docs.expo.dev/more/create-expo/)
+
+{% endhint %}
 
 ### Creem el projecte amb Vite
 

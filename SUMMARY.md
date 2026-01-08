@@ -2,14 +2,10 @@
 
 <!-- - [Welcome](README.md) -->
 
-<!-- ## Getting Started
-
-- [Quickstart](getting-started/quickstart.md)
-- [Publish your docs](getting-started/publish-your-docs.md) -->
 
 ## React Native
 
-- [Inici del projecte React Native](react-native/inici-projecte.md)
+- [Inici del projecte](react-native/inici-projecte.md)
 
 <!-- ## Basics
 
